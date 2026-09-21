@@ -3,3 +3,4 @@ This is the current repository for Group 6's SE 3354 Project. Project files for 
 
 
 * Thomas Nguyen
+* Paulo Penaga
