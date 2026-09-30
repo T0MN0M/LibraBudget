@@ -1,0 +1,9 @@
+Instructions for Current Activity:
+    1. Create a file in this Planning folder titled "NameDescription.txt"
+    2. In this file, type your description of the app that we are building
+        -include the features that you think the app should have
+    3. Push that new file to the group GitHub
+    4. After everyone has written their descriptions of our project, we will compare them
+    5. Hopefully this will allow us to form a common perception of our project
+
+    6. Any better names for our app and/or team name??? 
