@@ -52,7 +52,7 @@ p {
 }
 
 input[type=text], input[type=password] {
-    border-radius: 25px;
+    border-radius: 10px;
     font-size: 18px;
     border: none !important;
     padding: 12px 12px 12px 23px;
@@ -66,6 +66,10 @@ hr {
 .row-bottom .col {
     display: inline-block;
     margin: 0;
+}
+
+.btn:hover {
+    background-color: green;
 }
 
 /*
